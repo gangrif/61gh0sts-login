@@ -1,6 +1,6 @@
 <!--
         Written by ghouly gangrif
-        Always open, and available at github.somethingorother
+        Always open, and available at https://github.com/gangrif/61gh0sts-login
 -->
 <html>
 	<head>
